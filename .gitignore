@@ -1,0 +1,22 @@
+# Node
+node_modules/
+npm-debug.log
+
+# Expo
+.expo/
+dist/
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+
+# Бэкенд
+backend/uploads/
+backend/.env
+
+# Системное
+.DS_Store
+Thumbs.db
+.env
